@@ -1,7 +1,7 @@
-## Splunk Logging Framework ##
+# Splunk Logging Framework
 
 This is the common utility for the different types of loggers that you would want to have it in your application. 
-This integrates with the below loggers and bring it as a single dependency of use.
+This integrates with the below loggers and bring it as a single dependency of use....
 
 * **Console Logger** - To print on the Console
 * **Splunk Logger** - To log to the Splunk Index using Token
