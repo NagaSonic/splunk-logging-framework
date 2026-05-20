@@ -1,4 +1,4 @@
-# Splunk Logging Framework
+## Splunk Logging Framework ##
 
 This is the common utility for the different types of loggers that you would want to have it in your application. 
 This integrates with the below loggers and bring it as a single dependency of use.
